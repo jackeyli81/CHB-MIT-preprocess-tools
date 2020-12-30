@@ -1,0 +1,362 @@
+Data Sampling Rate: 256 Hz
+*************************
+
+Channels in EDF Files:
+**********************
+Channel 1: FP1-F7
+Channel 2: F7-T7
+Channel 3: T7-P7
+Channel 4: P7-O1
+Channel 5: -
+Channel 6: FP1-F3
+Channel 7: F3-C3
+Channel 8: C3-P3
+Channel 9: P3-O1
+Channel 10: -
+Channel 11: FZ-CZ
+Channel 12: CZ-PZ
+Channel 13: -
+Channel 14: FP2-F4
+Channel 15: F4-C4
+Channel 16: C4-P4
+Channel 17: P4-O2
+Channel 18: -
+Channel 19: FP2-F8
+Channel 20: F8-T8
+Channel 21: T8-P8
+Channel 22: P8-O2
+Channel 23: -
+Channel 24: P7-T7
+Channel 25: T7-FT9
+Channel 26: FT9-FT10
+Channel 27: FT10-T8
+Channel 28: T8-P8
+
+File Name: chb13_02.edf
+File Start Time: 16:43:14
+File End Time: 17:43:14
+Number of Seizures in File: 0
+
+File Name: chb13_03.edf
+File Start Time: 17:43:20
+File End Time: 18:43:20
+Number of Seizures in File: 0
+
+Channels changed:
+*****************
+Channel 1: FP1-F7
+Channel 2: F7-T7
+Channel 3: T7-P7
+Channel 4: P7-O1
+Channel 5: -
+Channel 6: FP1-F3
+Channel 7: F3-C3
+Channel 8: C3-P3
+Channel 9: P3-O1
+Channel 10: -
+Channel 11: FZ-CZ
+Channel 12: CZ-PZ
+Channel 13: -
+Channel 14: FP2-F4
+Channel 15: F4-C4
+Channel 16: C4-P4
+Channel 17: P4-O2
+Channel 18: -
+Channel 19: FP2-F8
+Channel 20: F8-T8
+Channel 21: T8-P8
+Channel 22: P8-O2
+Channel 23: -
+Channel 24: LUE-RAE
+Channel 25: EKG1-EKG2
+
+File Name: chb13_04.edf
+File Start Time: 18:43:27
+File End Time: 19:43:27
+Number of Seizures in File: 0
+
+Channels changed:
+*****************
+Channel 1: FP1-F7
+Channel 2: F7-T7
+Channel 3: T7-P7
+Channel 4: P7-O1
+Channel 5: -
+Channel 6: FP1-F3
+Channel 7: F3-C3
+Channel 8: C3-P3
+Channel 9: P3-O1
+Channel 10: -
+Channel 11: FZ-CZ
+Channel 12: CZ-PZ
+Channel 13: -
+Channel 14: FP2-F4
+Channel 15: F4-C4
+Channel 16: C4-P4
+Channel 17: P4-O2
+Channel 18: -
+Channel 19: FP2-F8
+Channel 20: F8-T8
+Channel 21: T8-P8
+Channel 22: P8-O2
+
+File Name: chb13_05.edf
+File Start Time: 19:43:34
+File End Time: 20:43:34
+Number of Seizures in File: 0
+
+File Name: chb13_06.edf
+File Start Time: 20:43:41
+File End Time: 21:43:41
+Number of Seizures in File: 0
+
+File Name: chb13_07.edf
+File Start Time: 21:43:47
+File End Time: 22:43:47
+Number of Seizures in File: 0
+
+File Name: chb13_08.edf
+File Start Time: 22:43:55
+File End Time: 23:43:55
+Number of Seizures in File: 0
+
+File Name: chb13_09.edf
+File Start Time: 23:44:01
+File End Time: 24:44:01
+Number of Seizures in File: 0
+
+File Name: chb13_10.edf
+File Start Time: 00:44:08
+File End Time: 1:44:08
+Number of Seizures in File: 0
+
+File Name: chb13_11.edf
+File Start Time: 01:44:15
+File End Time: 2:44:15
+Number of Seizures in File: 0
+
+File Name: chb13_12.edf
+File Start Time: 02:44:21
+File End Time: 3:44:21
+Number of Seizures in File: 0
+
+File Name: chb13_13.edf
+File Start Time: 03:44:28
+File End Time: 4:44:28
+Number of Seizures in File: 0
+
+File Name: chb13_14.edf
+File Start Time: 04:44:35
+File End Time: 5:44:35
+Number of Seizures in File: 0
+
+File Name: chb13_15.edf
+File Start Time: 05:44:42
+File End Time: 6:44:42
+Number of Seizures in File: 0
+
+File Name: chb13_16.edf
+File Start Time: 06:44:48
+File End Time: 7:44:48
+Number of Seizures in File: 0
+
+File Name: chb13_18.edf
+File Start Time: 08:14:20
+File End Time: 9:14:20
+Number of Seizures in File: 0
+
+Channels changed:
+*****************
+Channel 1: FP1-F7
+Channel 2: F7-T7
+Channel 3: T7-P7
+Channel 4: P7-O1
+Channel 5: -
+Channel 6: FP1-F3
+Channel 7: F3-C3
+Channel 8: C3-P3
+Channel 9: P3-O1
+Channel 10: -
+Channel 11: FZ-CZ
+Channel 12: CZ-PZ
+Channel 13: -
+Channel 14: FP2-F4
+Channel 15: F4-C4
+Channel 16: C4-P4
+Channel 17: P4-O2
+Channel 18: -
+Channel 19: FP2-F8
+Channel 20: F8-T8
+Channel 21: T8-P8
+Channel 22: P8-O2
+Channel 23: -
+Channel 24: P7-T7
+Channel 25: T7-FT9
+Channel 26: FT9-FT10
+Channel 27: FT10-T8
+Channel 28: T8-P8
+
+File Name: chb13_19.edf
+File Start Time: 09:14:25
+File End Time: 10:14:25
+Number of Seizures in File: 1
+Seizure 1 Start Time: 2077 seconds
+Seizure 1 End Time: 2121 seconds
+
+File Name: chb13_21.edf
+File Start Time: 11:14:59
+File End Time: 12:14:59
+Number of Seizures in File: 1
+Seizure 1 Start Time: 934 seconds
+Seizure 1 End Time: 1004 seconds
+
+File Name: chb13_22.edf
+File Start Time: 12:15:06
+File End Time: 13:15:06
+Number of Seizures in File: 0
+
+Channels changed:
+*****************
+Channel 1: FP1-F7
+Channel 2: F7-T7
+Channel 3: T7-P7
+Channel 4: P7-O1
+Channel 5: -
+Channel 6: FP1-F3
+Channel 7: F3-C3
+Channel 8: C3-P3
+Channel 9: P3-O1
+Channel 10: -
+Channel 11: FZ-CZ
+Channel 12: CZ-PZ
+Channel 13: -
+Channel 14: FP2-F4
+Channel 15: F4-C4
+Channel 16: C4-P4
+Channel 17: P4-O2
+Channel 18: -
+Channel 19: FP2-F8
+Channel 20: F8-T8
+Channel 21: T8-P8
+Channel 22: P8-O2
+
+File Name: chb13_24.edf
+File Start Time: 14:15:19
+File End Time: 15:15:19
+Number of Seizures in File: 0
+
+File Name: chb13_30.edf
+File Start Time: 20:16:00
+File End Time: 21:16:00
+Number of Seizures in File: 0
+
+File Name: chb13_36.edf
+File Start Time: 02:17:23
+File End Time: 3:17:23
+Number of Seizures in File: 0
+
+File Name: chb13_37.edf
+File Start Time: 03:17:30
+File End Time: 4:17:30
+Number of Seizures in File: 0
+
+File Name: chb13_38.edf
+File Start Time: 04:17:37
+File End Time: 5:17:37
+Number of Seizures in File: 0
+
+File Name: chb13_39.edf
+File Start Time: 05:17:44
+File End Time: 6:17:44
+Number of Seizures in File: 0
+
+File Name: chb13_40.edf
+File Start Time: 06:17:50
+File End Time: 7:17:50
+Number of Seizures in File: 2
+Seizure 1 Start Time: 142 seconds
+Seizure 1 End Time: 173 seconds
+Seizure 2 Start Time: 530 seconds
+Seizure 2 End Time: 594 seconds
+
+File Name: chb13_47.edf
+File Start Time: 13:18:37
+File End Time: 14:18:37
+Number of Seizures in File: 0
+
+Channels changed:
+*****************
+Channel 1: FP1-F7
+Channel 2: F7-T7
+Channel 3: T7-P7
+Channel 4: P7-O1
+Channel 5: -
+Channel 6: FP1-F3
+Channel 7: F3-C3
+Channel 8: C3-P3
+Channel 9: P3-O1
+Channel 10: -
+Channel 11: FZ-CZ
+Channel 12: CZ-PZ
+Channel 13: -
+Channel 14: FP2-F4
+Channel 15: F4-C4
+Channel 16: C4-P4
+Channel 17: P4-O2
+Channel 18: -
+Channel 19: FP2-F8
+Channel 20: F8-T8
+Channel 21: T8-P8
+Channel 22: P8-O2
+Channel 23: -
+Channel 24: P7-T7
+Channel 25: T7-FT9
+Channel 26: FT9-FT10
+Channel 27: FT10-T8
+Channel 28: T8-P8
+
+File Name: chb13_55.edf
+File Start Time: 21:20:07
+File End Time: 22:20:07
+Number of Seizures in File: 2
+Seizure 1 Start Time: 458 seconds
+Seizure 1 End Time: 478 seconds
+Seizure 2 Start Time: 2436 seconds
+Seizure 2 End Time: 2454 seconds
+
+File Name: chb13_56.edf
+File Start Time: 22:20:14
+File End Time: 23:20:14
+Number of Seizures in File: 0
+
+File Name: chb13_58.edf
+File Start Time: 00:20:28
+File End Time: 1:20:28
+Number of Seizures in File: 1
+Seizure 1 Start Time: 2474 seconds
+Seizure 1 End Time: 2491 seconds
+
+File Name: chb13_59.edf
+File Start Time: 01:20:34
+File End Time: 2:20:34
+Number of Seizures in File: 1
+Seizure 1 Start Time: 3339 seconds
+Seizure 1 End Time: 3401 seconds
+
+File Name: chb13_60.edf
+File Start Time: 02:20:41
+File End Time: 3:20:41
+Number of Seizures in File: 1
+Seizure 1 Start Time: 638 seconds
+Seizure 1 End Time: 660 seconds
+
+File Name: chb13_62.edf
+File Start Time: 04:20:55
+File End Time: 5:20:55
+Number of Seizures in File: 3
+Seizure 1 Start Time: 851 seconds
+Seizure 1 End Time: 916 seconds
+Seizure 2 Start Time: 1626 seconds
+Seizure 2 End Time: 1691 seconds
+Seizure 3 Start Time: 2664 seconds
+Seizure 3 End Time: 2721 seconds

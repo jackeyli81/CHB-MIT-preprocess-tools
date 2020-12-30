@@ -1,0 +1,3196 @@
+current on processing subject: chb01
+	 loading at sub chb01, trial0:chb01_01.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial1:chb01_02.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb01, trial2:chb01_03.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb01, trial3:chb01_04.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb01, trial4:chb01_05.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial5:chb01_06.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial6:chb01_07.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial7:chb01_08.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial8:chb01_09.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial9:chb01_10.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial10:chb01_11.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial11:chb01_12.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial12:chb01_13.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial13:chb01_14.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb01, trial14:chb01_15.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb01, trial15:chb01_16.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb01, trial16:chb01_17.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb01, trial17:chb01_18.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb01, trial18:chb01_19.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial19:chb01_20.edf, max-window-num: 0
+	 loading at sub chb01, trial20:chb01_21.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb01, trial21:chb01_22.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial22:chb01_23.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial23:chb01_24.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial24:chb01_25.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb01, trial25:chb01_26.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb01, trial26:chb01_27.edf, max-window-num: 0
+	 loading at sub chb01, trial27:chb01_29.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial28:chb01_30.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial29:chb01_31.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial30:chb01_32.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial31:chb01_33.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial32:chb01_34.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial33:chb01_36.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial34:chb01_37.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial35:chb01_38.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial36:chb01_39.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial37:chb01_40.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial38:chb01_41.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial39:chb01_42.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial40:chb01_43.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb01, trial41:chb01_46.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+current on processing subject: chb02
+	 loading at sub chb02, trial0:chb02_01.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial1:chb02_02.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial2:chb02_03.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial3:chb02_04.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial4:chb02_05.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial5:chb02_06.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial6:chb02_07.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial7:chb02_08.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial8:chb02_09.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial9:chb02_10.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial10:chb02_11.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial11:chb02_12.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial12:chb02_13.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial13:chb02_14.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial14:chb02_15.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb02, trial15:chb02_16+.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb02, trial16:chb02_16.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb02, trial17:chb02_17.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial18:chb02_18.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb02, trial19:chb02_19.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb02, trial20:chb02_20.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial21:chb02_21.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial22:chb02_22.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial23:chb02_23.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial24:chb02_24.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial25:chb02_25.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial26:chb02_26.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial27:chb02_27.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial28:chb02_28.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial29:chb02_29.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial30:chb02_30.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial31:chb02_31.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial32:chb02_32.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial33:chb02_33.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial34:chb02_34.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb02, trial35:chb02_35.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+current on processing subject: chb03
+	 loading at sub chb03, trial0:chb03_01.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb03, trial1:chb03_02.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb03, trial2:chb03_03.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb03, trial3:chb03_04.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb03, trial4:chb03_05.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial5:chb03_06.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial6:chb03_07.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial7:chb03_08.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial8:chb03_09.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial9:chb03_10.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial10:chb03_11.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial11:chb03_12.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial12:chb03_13.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial13:chb03_14.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial14:chb03_15.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial15:chb03_16.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial16:chb03_17.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial17:chb03_18.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial18:chb03_19.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial19:chb03_20.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial20:chb03_21.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial21:chb03_22.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial22:chb03_23.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial23:chb03_24.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial24:chb03_25.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial25:chb03_26.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial26:chb03_27.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial27:chb03_28.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial28:chb03_29.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial29:chb03_30.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial30:chb03_31.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial31:chb03_32.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial32:chb03_33.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb03, trial33:chb03_34.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb03, trial34:chb03_35.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb03, trial35:chb03_36.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb03, trial36:chb03_37.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb03, trial37:chb03_38.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+current on processing subject: chb04
+	 loading at sub chb04, trial0:chb04_01.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb04, trial1:chb04_02.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial2:chb04_03.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial3:chb04_04.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb04, trial4:chb04_05.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb04, trial5:chb04_06.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial6:chb04_07.edf, max-window-num: 3
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 loading at sub chb04, trial7:chb04_08.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb04, trial8:chb04_09.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial9:chb04_10.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial10:chb04_11.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb04, trial11:chb04_12.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial12:chb04_13.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb04, trial13:chb04_14.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial14:chb04_15.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial15:chb04_16.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial16:chb04_17.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb04, trial17:chb04_18.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial18:chb04_19.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial19:chb04_21.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial20:chb04_22.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial21:chb04_23.edf, max-window-num: 5
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 loading at sub chb04, trial22:chb04_24.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial23:chb04_25.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial24:chb04_26.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial25:chb04_27.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb04, trial26:chb04_28.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb04, trial27:chb04_29.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial28:chb04_30.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial29:chb04_31.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial30:chb04_32.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial31:chb04_33.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial32:chb04_34.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial33:chb04_35.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial34:chb04_36.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial35:chb04_37.edf, max-window-num: 3
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 loading at sub chb04, trial36:chb04_38.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial37:chb04_39.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial38:chb04_40.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial39:chb04_41.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb04, trial40:chb04_42.edf, max-window-num: 3
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 loading at sub chb04, trial41:chb04_43.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+current on processing subject: chb05
+	 loading at sub chb05, trial0:chb05_01.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial1:chb05_02.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial2:chb05_03.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial3:chb05_04.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial4:chb05_05.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb05, trial5:chb05_06.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb05, trial6:chb05_07.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial7:chb05_08.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial8:chb05_09.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial9:chb05_10.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial10:chb05_11.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial11:chb05_12.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb05, trial12:chb05_13.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb05, trial13:chb05_14.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial14:chb05_15.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb05, trial15:chb05_16.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb05, trial16:chb05_17.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb05, trial17:chb05_18.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial18:chb05_19.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial19:chb05_20.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial20:chb05_21.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb05, trial21:chb05_22.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb05, trial22:chb05_23.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial23:chb05_24.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial24:chb05_25.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial25:chb05_26.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial26:chb05_27.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial27:chb05_28.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial28:chb05_29.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial29:chb05_30.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial30:chb05_31.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial31:chb05_32.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial32:chb05_33.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial33:chb05_34.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial34:chb05_35.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial35:chb05_36.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial36:chb05_37.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial37:chb05_38.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb05, trial38:chb05_39.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+current on processing subject: chb06
+	 loading at sub chb06, trial0:chb06_01.edf, max-window-num: 3
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 loading at sub chb06, trial1:chb06_02.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb06, trial2:chb06_03.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb06, trial3:chb06_04.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb06, trial4:chb06_05.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb06, trial5:chb06_06.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb06, trial6:chb06_07.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb06, trial7:chb06_08.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb06, trial8:chb06_09.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb06, trial9:chb06_10.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb06, trial10:chb06_12.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb06, trial11:chb06_13.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb06, trial12:chb06_14.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb06, trial13:chb06_15.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb06, trial14:chb06_16.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb06, trial15:chb06_17.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb06, trial16:chb06_18.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb06, trial17:chb06_24.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+current on processing subject: chb07
+	 loading at sub chb07, trial0:chb07_01.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb07, trial1:chb07_02.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb07, trial2:chb07_03.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb07, trial3:chb07_04.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb07, trial4:chb07_05.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb07, trial5:chb07_06.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb07, trial6:chb07_07.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb07, trial7:chb07_08.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb07, trial8:chb07_09.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb07, trial9:chb07_10.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb07, trial10:chb07_11.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb07, trial11:chb07_12.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb07, trial12:chb07_13.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb07, trial13:chb07_14.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb07, trial14:chb07_15.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb07, trial15:chb07_16.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb07, trial16:chb07_17.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb07, trial17:chb07_18.edf, max-window-num: 5
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 loading at sub chb07, trial18:chb07_19.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+current on processing subject: chb08
+	 loading at sub chb08, trial0:chb08_02.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb08, trial1:chb08_03.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb08, trial2:chb08_04.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb08, trial3:chb08_05.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb08, trial4:chb08_10.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb08, trial5:chb08_11.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb08, trial6:chb08_12.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb08, trial7:chb08_13.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb08, trial8:chb08_14.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb08, trial9:chb08_15.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb08, trial10:chb08_16.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb08, trial11:chb08_17.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb08, trial12:chb08_18.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb08, trial13:chb08_19.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb08, trial14:chb08_20.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb08, trial15:chb08_21.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb08, trial16:chb08_22.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb08, trial17:chb08_23.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb08, trial18:chb08_24.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb08, trial19:chb08_29.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+current on processing subject: chb09
+	 loading at sub chb09, trial0:chb09_01.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb09, trial1:chb09_02.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb09, trial2:chb09_03.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb09, trial3:chb09_04.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb09, trial4:chb09_05.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb09, trial5:chb09_06.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb09, trial6:chb09_07.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb09, trial7:chb09_08.edf, max-window-num: 2
+	 *loading at window No. 0
+total sample : 60
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb09, trial8:chb09_09.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb09, trial9:chb09_10.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb09, trial10:chb09_11.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb09, trial11:chb09_12.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb09, trial12:chb09_13.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb09, trial13:chb09_14.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb09, trial14:chb09_15.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb09, trial15:chb09_16.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb09, trial16:chb09_17.edf, max-window-num: 0
+	 loading at sub chb09, trial17:chb09_18.edf, max-window-num: 7
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 loading at sub chb09, trial18:chb09_19.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+current on processing subject: chb10
+	 loading at sub chb10, trial0:chb10_01.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb10, trial1:chb10_02.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb10, trial2:chb10_03.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb10, trial3:chb10_04.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb10, trial4:chb10_05.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb10, trial5:chb10_06.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb10, trial6:chb10_07.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb10, trial7:chb10_08.edf, max-window-num: 3
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 loading at sub chb10, trial8:chb10_12.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb10, trial9:chb10_13.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb10, trial10:chb10_14.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb10, trial11:chb10_15.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb10, trial12:chb10_16.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb10, trial13:chb10_17.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb10, trial14:chb10_18.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+
+	 loading at sub chb10, trial15:chb10_19.edf, max-window-num: 3
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 loading at sub chb10, trial16:chb10_20.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb10, trial17:chb10_21.edf, max-window-num: 4
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb10, trial18:chb10_22.edf, max-window-num: 3
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 loading at sub chb10, trial19:chb10_27.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb10, trial20:chb10_28.edf, max-window-num: 3
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 loading at sub chb10, trial21:chb10_30.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb10, trial22:chb10_31.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb10, trial23:chb10_38.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb10, trial24:chb10_89.edf, max-window-num: 1
+	 *loading at window No. 0
+current on processing subject: chb11
+	 loading at sub chb11, trial0:chb11_01.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb11, trial1:chb11_02.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial2:chb11_03.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial3:chb11_04.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial4:chb11_05.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial5:chb11_06.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial6:chb11_07.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial7:chb11_08.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial8:chb11_09.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial9:chb11_10.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial10:chb11_11.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial11:chb11_12.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial12:chb11_13.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial13:chb11_14.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial14:chb11_15.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial15:chb11_16.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial16:chb11_17.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial17:chb11_18.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial18:chb11_19.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial19:chb11_24.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial20:chb11_25.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial21:chb11_26.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial22:chb11_27.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial23:chb11_53.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial24:chb11_54.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial25:chb11_55.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial26:chb11_56.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial27:chb11_58.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial28:chb11_60.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial29:chb11_61.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial30:chb11_62.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb11, trial31:chb11_63.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb11, trial32:chb11_82.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb11, trial33:chb11_92.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb11, trial34:chb11_99.edf, max-window-num: 1
+	 *loading at window No. 0
+current on processing subject: chb13
+	 loading at sub chb13, trial0:chb13_02.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial1:chb13_03.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial2:chb13_04.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial3:chb13_05.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial4:chb13_06.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial5:chb13_07.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial6:chb13_08.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial7:chb13_09.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial8:chb13_10.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial9:chb13_11.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial10:chb13_12.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial11:chb13_13.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial12:chb13_14.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial13:chb13_15.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial14:chb13_16.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial15:chb13_18.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb13, trial16:chb13_19.edf, max-window-num: 1/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'.'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+
+	 *loading at window No. 0
+	 loading at sub chb13, trial17:chb13_21.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb13, trial18:chb13_22.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial19:chb13_24.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial20:chb13_30.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial21:chb13_36.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial22:chb13_37.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial23:chb13_38.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial24:chb13_39.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb13, trial25:chb13_40.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+	 loading at sub chb13, trial26:chb13_47.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb13, trial27:chb13_55.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb13, trial28:chb13_56.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb13, trial29:chb13_58.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb13, trial30:chb13_59.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb13, trial31:chb13_60.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb13, trial32:chb13_62.edf, max-window-num: 3
+	 *loading at window No. 0
+	 *loading at window No. 1
+	 *loading at window No. 2
+total sample : 60
+current on processing subject: chb20
+	 loading at sub chb20, trial0:chb20_01.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial1:chb20_02.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial2:chb20_03.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial3:chb20_04.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial4:chb20_05.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial5:chb20_06.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial6:chb20_07.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial7:chb20_08.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial8:chb20_11.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb20, trial9:chb20_12.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb20, trial10:chb20_13.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial11:chb20_14.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb20, trial12:chb20_15.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+	 loading at sub chb20, trial13:chb20_16.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb20, trial14:chb20_17.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial15:chb20_21.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial16:chb20_22.edf, max-window-num: 0
+	 loading at sub chb20, trial17:chb20_23.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb20, trial18:chb20_25.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial19:chb20_26.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial20:chb20_27.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial21:chb20_28.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial22:chb20_29.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial23:chb20_30.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial24:chb20_31.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial25:chb20_34.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial26:chb20_59.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb20, trial27:chb20_60.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb20, trial28:chb20_68.edf, max-window-num: 1
+	 *loading at window No. 0
+current on processing subject: chb21
+	 loading at sub chb21, trial0:chb21_01.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial1:chb21_02.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial2:chb21_03.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial3:chb21_04.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial4:chb21_05.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial5:chb21_06.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial6:chb21_07.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial7:chb21_08.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial8:chb21_09.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial9:chb21_10.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial10:chb21_11.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial11:chb21_12.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial12:chb21_13.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial13:chb21_14.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial14:chb21_15.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial15:chb21_16.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb21, trial16:chb21_17.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial17:chb21_18.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb21, trial18:chb21_19.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb21, trial19:chb21_20.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb21, trial20:chb21_21.edf, max-window-num: 1
+	 *loading at window No. 0/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Scaling factor is not defined in following channels:
+--0, --1, --2, --3, --4
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+/mnt/data/share_data/liyang_eeg/InC3-prep/edfprep/toolbox.py:117: RuntimeWarning: Channel names are not unique, found duplicates for: {'-'}. Applying running numbers for duplicates.
+  verbose = 0, preload=True)
+
+	 loading at sub chb21, trial21:chb21_22.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb21, trial22:chb21_23.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial23:chb21_24.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial24:chb21_25.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial25:chb21_26.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial26:chb21_27.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial27:chb21_28.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial28:chb21_29.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial29:chb21_30.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial30:chb21_31.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial31:chb21_32.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb21, trial32:chb21_33.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+current on processing subject: chb22
+	 loading at sub chb22, trial0:chb22_01.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial1:chb22_02.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial2:chb22_03.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial3:chb22_04.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial4:chb22_05.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial5:chb22_06.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial6:chb22_07.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial7:chb22_08.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial8:chb22_09.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial9:chb22_10.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial10:chb22_11.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial11:chb22_15.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial12:chb22_16.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial13:chb22_17.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial14:chb22_18.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial15:chb22_19.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb22, trial16:chb22_20.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb22, trial17:chb22_21.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial18:chb22_22.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial19:chb22_23.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial20:chb22_24.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb22, trial21:chb22_25.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb22, trial22:chb22_26.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial23:chb22_27.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial24:chb22_28.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial25:chb22_29.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial26:chb22_30.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb22, trial27:chb22_38.edf, max-window-num: 1
+	 *loading at window No. 0
+	 loading at sub chb22, trial28:chb22_51.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial29:chb22_54.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb22, trial30:chb22_77.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+current on processing subject: chb23
+	 loading at sub chb23, trial0:chb23_06.edf, max-window-num: 1
+	 *loading at window No. 0
+total sample : 60
+	 loading at sub chb23, trial1:chb23_07.edf, max-window-num: 0
+	 loading at sub chb23, trial2:chb23_08.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 loading at sub chb23, trial3:chb23_09.edf, max-window-num: 4
+	 *loading at window No. 0
+total sample : 60
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 loading at sub chb23, trial4:chb23_10.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb23, trial5:chb23_16.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb23, trial6:chb23_17.edf, max-window-num: 6
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 loading at sub chb23, trial7:chb23_19.edf, max-window-num: 8
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60
+	 *loading at window No. 2
+total sample : 60
+	 *loading at window No. 3
+total sample : 60
+	 *loading at window No. 4
+total sample : 60
+	 *loading at window No. 5
+total sample : 60
+	 *loading at window No. 6
+total sample : 60
+	 *loading at window No. 7
+total sample : 60
+	 loading at sub chb23, trial8:chb23_20.edf, max-window-num: 2
+	 *loading at window No. 0
+	 *loading at window No. 1
+total sample : 60

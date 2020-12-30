@@ -1,0 +1,194 @@
+Data Sampling Rate: 256 Hz
+*************************
+
+Channels in EDF Files:
+**********************
+Channel 1: FP1-F7
+Channel 2: F7-T7
+Channel 3: T7-P7
+Channel 4: P7-O1
+Channel 5: .
+Channel 6: FP1-F3
+Channel 7: F3-C3
+Channel 8: C3-P3
+Channel 9: P3-O1
+Channel 10: .
+Channel 11: FZ-CZ
+Channel 12: CZ-PZ
+Channel 13: .
+Channel 14: FP2-F4
+Channel 15: F4-C4
+Channel 16: C4-P4
+Channel 17: P4-O2
+Channel 18: .
+Channel 19: FP2-F8
+Channel 20: F8-T8
+Channel 21: T8-P8
+Channel 22: P8-O2
+Channel 23: .
+Channel 24: P7-T7
+Channel 25: T7-FT9
+Channel 26: FT9-FT10
+Channel 27: FT10-T8
+Channel 28: T8-P8
+
+File Name: chb20_01.edf
+File Start Time: 16:55:08
+File End Time: 17:55:14
+Number of Seizures in File: 0
+
+File Name: chb20_02.edf
+File Start Time: 17:55:44
+File End Time: 18:55:44
+Number of Seizures in File: 0
+
+File Name: chb20_03.edf
+File Start Time: 18:55:51
+File End Time: 19:55:51
+Number of Seizures in File: 0
+
+File Name: chb20_04.edf
+File Start Time: 19:55:59
+File End Time: 20:55:59
+Number of Seizures in File: 0
+
+File Name: chb20_05.edf
+File Start Time: 20:56:06
+File End Time: 21:56:06
+Number of Seizures in File: 0
+
+File Name: chb20_06.edf
+File Start Time: 21:56:13
+File End Time: 22:56:13
+Number of Seizures in File: 0
+
+File Name: chb20_07.edf
+File Start Time: 22:56:19
+File End Time: 23:56:19
+Number of Seizures in File: 0
+
+File Name: chb20_08.edf
+File Start Time: 23:56:26
+File End Time: 24:56:26
+Number of Seizures in File: 0
+
+File Name: chb20_11.edf
+File Start Time: 02:56:46
+File End Time: 3:56:46
+Number of Seizures in File: 0
+
+File Name: chb20_12.edf
+File Start Time: 03:56:53
+File End Time: 4:56:53
+Number of Seizures in File: 1
+Seizure 1 Start Time: 94 seconds
+Seizure 1 End Time: 123 seconds
+
+File Name: chb20_13.edf
+File Start Time: 04:57:00
+File End Time: 5:57:00
+Number of Seizures in File: 2
+Seizure 1 Start Time: 1440 seconds
+Seizure 1 End Time: 1470 seconds
+Seizure 2 Start Time: 2498 seconds
+Seizure 2 End Time: 2537 seconds
+
+File Name: chb20_14.edf
+File Start Time: 05:57:07
+File End Time: 6:57:07
+Number of Seizures in File: 1
+Seizure 1 Start Time: 1971 seconds
+Seizure 1 End Time: 2009 seconds
+
+File Name: chb20_15.edf
+File Start Time: 06:57:14
+File End Time: 7:57:14
+Number of Seizures in File: 2
+Seizure 1 Start Time:  390 seconds
+Seizure 1 End Time: 425 seconds
+Seizure 2 Start Time: 1689 seconds
+Seizure 2 End Time: 1738 seconds
+
+File Name: chb20_16.edf
+File Start Time: 07:57:20
+File End Time: 8:55:09
+Number of Seizures in File: 1
+Seizure 1 Start Time: 2226 seconds
+Seizure 1 End Time: 2261 seconds
+
+File Name: chb20_17.edf
+File Start Time: 08:55:24
+File End Time: 9:55:24
+Number of Seizures in File: 0
+
+File Name: chb20_21.edf
+File Start Time: 12:51:27
+File End Time: 13:51:45
+Number of Seizures in File: 0
+
+File Name: chb20_22.edf
+File Start Time: 13:53:06
+File End Time: 14:05:28
+Number of Seizures in File: 0
+
+File Name: chb20_23.edf
+File Start Time: 14:11:44
+File End Time: 15:01:08
+Number of Seizures in File: 0
+
+File Name: chb20_25.edf
+File Start Time: 16:05:20
+File End Time: 17:05:20
+Number of Seizures in File: 0
+
+File Name: chb20_26.edf
+File Start Time: 17:05:27
+File End Time: 18:05:27
+Number of Seizures in File: 0
+
+File Name: chb20_27.edf
+File Start Time: 18:05:33
+File End Time: 19:05:33
+Number of Seizures in File: 0
+
+File Name: chb20_28.edf
+File Start Time: 19:05:40
+File End Time: 20:05:40
+Number of Seizures in File: 0
+
+File Name: chb20_29.edf
+File Start Time: 20:05:47
+File End Time: 21:05:47
+Number of Seizures in File: 0
+
+File Name: chb20_30.edf
+File Start Time: 21:05:54
+File End Time: 22:05:54
+Number of Seizures in File: 0
+
+File Name: chb20_31.edf
+File Start Time: 22:06:01
+File End Time: 23:06:01
+Number of Seizures in File: 0
+
+File Name: chb20_34.edf
+File Start Time: 01:06:21
+File End Time: 2:06:21
+Number of Seizures in File: 0
+
+File Name: chb20_59.edf
+File Start Time: 00:44:04
+File End Time: 1:44:04
+Number of Seizures in File: 0
+
+File Name: chb20_60.edf
+File Start Time: 01:44:11
+File End Time: 2:44:11
+Number of Seizures in File: 0
+
+File Name: chb20_68.edf
+File Start Time: 09:45:07
+File End Time: 10:21:14
+Number of Seizures in File: 1
+Seizure 1 Start Time: 1393 seconds
+Seizure 1 End Time: 1432 seconds

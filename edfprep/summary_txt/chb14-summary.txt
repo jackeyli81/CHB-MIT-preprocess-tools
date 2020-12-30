@@ -1,0 +1,180 @@
+Data Sampling Rate: 256 Hz
+*************************
+
+Channels in EDF Files:
+**********************
+Channel 1: FP1-F7
+Channel 2: F7-T7
+Channel 3: T7-P7
+Channel 4: P7-O1
+Channel 5: -
+Channel 6: FP1-F3
+Channel 7: F3-C3
+Channel 8: C3-P3
+Channel 9: P3-O1
+Channel 10: -
+Channel 11: FZ-CZ
+Channel 12: CZ-PZ
+Channel 13: -
+Channel 14: FP2-F4
+Channel 15: F4-C4
+Channel 16: C4-P4
+Channel 17: P4-O2
+Channel 18: -
+Channel 19: FP2-F8
+Channel 20: F8-T8
+Channel 21: T8-P8
+Channel 22: P8-O2
+Channel 23: -
+Channel 24: P7-T7
+Channel 25: T7-FT9
+Channel 26: FT9-FT10
+Channel 27: FT10-T8
+Channel 28: T8-P8
+
+File Name: chb14_01.edf
+File Start Time: 14:34:50
+File End Time: 15:34:50
+Number of Seizures in File: 0
+
+File Name: chb14_02.edf
+File Start Time: 15:34:53
+File End Time: 16:34:53
+Number of Seizures in File: 0
+
+File Name: chb14_03.edf
+File Start Time: 16:35:00
+File End Time: 17:35:00
+Number of Seizures in File: 1
+Seizure 1 Start Time: 1986 seconds
+Seizure 1 End Time: 2000 seconds
+
+File Name: chb14_04.edf
+File Start Time: 17:35:07
+File End Time: 18:35:07
+Number of Seizures in File: 2
+Seizure 1 Start Time: 1372 seconds
+Seizure 1 End Time: 1392 seconds
+Seizure 2 Start Time: 2817 seconds
+Seizure 2 End Time: 2839 seconds
+
+File Name: chb14_06.edf
+File Start Time: 19:35:21
+File End Time: 20:35:21
+Number of Seizures in File: 1
+Seizure 1 Start Time: 1911 seconds
+Seizure 1 End Time: 1925 seconds
+
+File Name: chb14_07.edf
+File Start Time: 20:35:28
+File End Time: 21:35:28
+Number of Seizures in File: 0
+
+File Name: chb14_11.edf
+File Start Time: 00:35:55
+File End Time: 1:35:55
+Number of Seizures in File: 1
+Seizure 1 Start Time: 1838 seconds
+Seizure 1 End Time: 1879 seconds
+
+File Name: chb14_12.edf
+File Start Time: 01:36:02
+File End Time: 2:36:02
+Number of Seizures in File: 0
+
+File Name: chb14_13.edf
+File Start Time: 02:36:09
+File End Time: 3:36:09
+Number of Seizures in File: 0
+
+File Name: chb14_14.edf
+File Start Time: 03:36:16
+File End Time: 4:36:16
+Number of Seizures in File: 0
+
+File Name: chb14_16.edf
+File Start Time: 05:36:29
+File End Time: 6:36:29
+Number of Seizures in File: 0
+
+File Name: chb14_17.edf
+File Start Time: 06:36:36
+File End Time: 7:36:36
+Number of Seizures in File: 1
+Seizure 1 Start Time: 3239 seconds
+Seizure 1 End Time: 3259 seconds
+
+
+File Name: chb14_18.edf
+File Start Time: 07:36:43
+File End Time: 8:36:43
+Number of Seizures in File: 1
+Seizure 1 Start Time: 1039 seconds
+Seizure 1 End Time: 1061 seconds
+
+File Name: chb14_19.edf
+File Start Time: 08:36:50
+File End Time: 9:36:50
+Number of Seizures in File: 0
+
+File Name: chb14_20.edf
+File Start Time: 09:36:57
+File End Time: 10:36:57
+Number of Seizures in File: 0
+
+File Name: chb14_22.edf
+File Start Time: 11:37:11
+File End Time: 12:37:11
+Number of Seizures in File: 0
+
+File Name: chb14_24.edf
+File Start Time: 13:37:25
+File End Time: 14:37:25
+Number of Seizures in File: 0
+
+File Name: chb14_25.edf
+File Start Time: 14:37:31
+File End Time: 15:37:31
+Number of Seizures in File: 0
+
+File Name: chb14_26.edf
+File Start Time: 15:37:38
+File End Time: 16:37:38
+Number of Seizures in File: 0
+
+File Name: chb14_27.edf
+File Start Time: 16:37:45
+File End Time: 17:37:45
+Number of Seizures in File: 1
+Seizure 1 Start Time: 2833 seconds
+Seizure 1 End Time: 2849 seconds
+
+File Name: chb14_29.edf
+File Start Time: 18:37:59
+File End Time: 19:37:59
+Number of Seizures in File: 0
+
+File Name: chb14_30.edf
+File Start Time: 19:38:06
+File End Time: 20:38:06
+Number of Seizures in File: 0
+
+File Name: chb14_32.edf
+File Start Time: 21:38:19
+File End Time: 22:38:19
+Number of Seizures in File: 0
+
+File Name: chb14_37.edf
+File Start Time: 02:38:53
+File End Time: 3:38:53
+Number of Seizures in File: 0
+
+File Name: chb14_39.edf
+File Start Time: 04:39:07
+File End Time: 5:39:07
+Number of Seizures in File: 0
+
+File Name: chb14_42.edf
+File Start Time: 07:39:28
+File End Time: 8:39:28
+Number of Seizures in File: 0

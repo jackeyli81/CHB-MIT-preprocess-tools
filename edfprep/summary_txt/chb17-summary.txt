@@ -1,0 +1,170 @@
+Data Sampling Rate: 256 Hz
+*************************
+
+Channels in EDF Files:
+**********************
+Channel 1: FP1-F7
+Channel 2: F7-T7
+Channel 3: T7-P7
+Channel 4: P7-O1
+Channel 5: -
+Channel 6: FP1-F3
+Channel 7: F3-C3
+Channel 8: C3-P3
+Channel 9: P3-O1
+Channel 10: -
+Channel 11: FZ-CZ
+Channel 12: CZ-PZ
+Channel 13: -
+Channel 14: FP2-F4
+Channel 15: F4-C4
+Channel 16: C4-P4
+Channel 17: P4-O2
+Channel 18: -
+Channel 19: FP2-F8
+Channel 20: F8-T8
+Channel 21: T8-P8
+Channel 22: P8-O2
+Channel 23: -
+Channel 24: P7-T7
+Channel 25: T7-FT9
+Channel 26: FT9-FT10
+Channel 27: FT10-T8
+Channel 28: T8-P8
+
+File Name: chb17a_03.edf
+File Start Time: 19:47:38
+File End Time: 20:47:38
+Number of Seizures in File: 1
+Seizure 1 Start Time: 2282 seconds
+Seizure 1 End Time: 2372 seconds
+
+File Name: chb17a_04.edf
+File Start Time: 20:47:45
+File End Time: 21:47:45
+Number of Seizures in File: 1
+Seizure 1 Start Time: 3025 seconds
+Seizure 1 End Time: 3140 seconds
+
+File Name: chb17a_05.edf
+File Start Time: 21:47:52
+File End Time: 22:47:52
+Number of Seizures in File: 0
+
+File Name: chb17a_06.edf
+File Start Time: 22:47:59
+File End Time: 23:47:59
+Number of Seizures in File: 0
+
+File Name: chb17a_08.edf
+File Start Time: 00:48:39
+File End Time: 1:48:39
+Number of Seizures in File: 0
+
+File Name: chb17b_57.edf
+File Start Time: 01:59:21
+File End Time: 2:59:21
+Number of Seizures in File: 0
+
+File Name: chb17b_58.edf
+File Start Time: 02:59:28
+File End Time: 3:59:28
+Number of Seizures in File: 0
+
+File Name: chb17b_59.edf
+File Start Time: 03:59:35
+File End Time: 4:59:35
+Number of Seizures in File: 0
+
+File Name: chb17b_60.edf
+File Start Time: 04:59:41
+File End Time: 5:59:41
+Number of Seizures in File: 0
+
+File Name: chb17b_63.edf
+File Start Time: 08:00:02
+File End Time: 9:00:26
+Number of Seizures in File: 1
+Seizure 1 Start Time: 3136 seconds
+Seizure 1 End Time: 3224 seconds
+
+File Name: chb17b_67.edf
+File Start Time: 11:40:36
+File End Time: 12:40:36
+Number of Seizures in File: 0
+
+File Name: chb17b_68.edf
+File Start Time: 12:40:43
+File End Time: 13:40:43
+Number of Seizures in File: 0
+
+File Name: chb17b_69.edf
+File Start Time: 13:40:50
+File End Time: 14:40:50
+Number of Seizures in File: 0
+
+File Name: chb17c_02.edf
+File Start Time: 22:53:46
+File End Time: 23:53:46
+Number of Seizures in File: 0
+
+File Name: chb17c_03.edf
+File Start Time: 23:53:53
+File End Time: 24:53:53
+Number of Seizures in File: 0
+
+File Name: chb17c_04.edf
+File Start Time: 00:54:00
+File End Time: 1:54:00
+Number of Seizures in File: 0
+
+File Name: chb17c_05.edf
+File Start Time: 01:54:06
+File End Time: 2:54:06
+Number of Seizures in File: 0
+
+File Name: chb17c_06.edf
+File Start Time: 02:54:13
+File End Time: 3:54:13
+Number of Seizures in File: 0
+
+File Name: chb17c_07.edf
+File Start Time: 03:54:20
+File End Time: 4:54:20
+Number of Seizures in File: 0
+
+File Name: chb17c_08.edf
+File Start Time: 04:54:27
+File End Time: 5:54:27
+Number of Seizures in File: 0
+
+Channels changed:
+*****************
+Channel 1: FP1-F7
+Channel 2: F7-T7
+Channel 3: T7-P7
+Channel 4: P7-O1
+Channel 5: -
+Channel 6: FP1-F3
+Channel 7: F3-C3
+Channel 8: C3-P3
+Channel 9: P3-O1
+Channel 10: -
+Channel 11: FZ-CZ
+Channel 12: CZ-PZ
+Channel 13: -
+Channel 14: FP2-F4
+Channel 15: F4-C4
+Channel 16: C4-P4
+Channel 17: P4-O2
+Channel 18: -
+Channel 19: FP2-F8
+Channel 20: F8-T8
+Channel 21: T8-P8
+Channel 22: P8-O2
+
+File Name: chb17c_13.edf
+File Start Time: 09:59:42
+File End Time: 10:59:42
+Number of Seizures in File: 0
+

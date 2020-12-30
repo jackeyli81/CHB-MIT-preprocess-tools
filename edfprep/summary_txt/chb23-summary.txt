@@ -1,0 +1,87 @@
+Data Sampling Rate: 256 Hz
+*************************
+
+Channels in EDF Files:
+**********************
+Channel 1: FP1-F7
+Channel 2: F7-T7
+Channel 3: T7-P7
+Channel 4: P7-O1
+Channel 5: FP1-F3
+Channel 6: F3-C3
+Channel 7: C3-P3
+Channel 8: P3-O1
+Channel 9: FP2-F4
+Channel 10: F4-C4
+Channel 11: C4-P4
+Channel 12: P4-O2
+Channel 13: FP2-F8
+Channel 14: F8-T8
+Channel 15: T8-P8
+Channel 16: P8-O2
+Channel 17: FZ-CZ
+Channel 18: CZ-PZ
+Channel 19: P7-T7
+Channel 20: T7-FT9
+Channel 21: FT9-FT10
+Channel 22: FT10-T8
+Channel 23: T8-P8
+
+File Name: chb23_06.edf
+File Start Time: 08:57:57
+File End Time: 11:02:43
+Number of Seizures in File: 1
+Seizure 1 Start Time: 3962 seconds
+Seizure 1 End Time: 4075 seconds
+
+File Name: chb23_07.edf
+File Start Time: 11:03:16
+File End Time: 11:45:56
+Number of Seizures in File: 0
+
+File Name: chb23_08.edf
+File Start Time: 11:48:05
+File End Time: 14:40:27
+Number of Seizures in File: 2
+Seizure 1 Start Time: 325 seconds
+Seizure 1 End Time: 345 seconds
+Seizure 2 Start Time: 5104 seconds
+Seizure 2 End Time: 5151 seconds
+
+File Name: chb23_09.edf
+File Start Time: 14:40:47
+File End Time: 18:41:13
+Number of Seizures in File: 4
+Seizure 1 Start Time: 2589 seconds
+Seizure 1 End Time: 2660 seconds
+Seizure 2 Start Time: 6885 seconds
+Seizure 2 End Time: 6947 seconds
+Seizure 3 Start Time: 8505 seconds
+Seizure 3 End Time: 8532 seconds
+Seizure 4 Start Time: 9580 seconds
+Seizure 4 End Time: 9664 seconds
+
+File Name: chb23_10.edf
+File Start Time: 18:41:40
+File End Time: 22:41:40
+Number of Seizures in File: 0
+
+File Name: chb23_16.edf
+File Start Time: 13:46:32
+File End Time: 17:46:32
+Number of Seizures in File: 0
+
+File Name: chb23_17.edf
+File Start Time: 17:46:42
+File End Time: 21:16:29
+Number of Seizures in File: 0
+
+File Name: chb23_19.edf
+File Start Time: 02:28:28
+File End Time: 6:28:28
+Number of Seizures in File: 0
+
+File Name: chb23_20.edf
+File Start Time: 06:28:36
+File End Time: 7:52:05
+Number of Seizures in File: 0

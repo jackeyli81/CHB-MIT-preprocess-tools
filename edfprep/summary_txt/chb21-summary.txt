@@ -1,0 +1,206 @@
+Data Sampling Rate: 256 Hz
+*************************
+
+Channels in EDF Files:
+**********************
+Channel 1: FP1-F7
+Channel 2: F7-T7
+Channel 3: T7-P7
+Channel 4: P7-O1
+Channel 5: -
+Channel 6: FP1-F3
+Channel 7: F3-C3
+Channel 8: C3-P3
+Channel 9: P3-O1
+Channel 10: -
+Channel 11: FZ-CZ
+Channel 12: CZ-PZ
+Channel 13: -
+Channel 14: FP2-F4
+Channel 15: F4-C4
+Channel 16: C4-P4
+Channel 17: P4-O2
+Channel 18: -
+Channel 19: FP2-F8
+Channel 20: F8-T8
+Channel 21: T8-P8
+Channel 22: P8-O2
+Channel 23: -
+Channel 24: P7-T7
+Channel 25: T7-FT9
+Channel 26: FT9-FT10
+Channel 27: FT10-T8
+Channel 28: T8-P8
+
+File Name: chb21_01.edf
+File Start Time: 17:56:45
+File End Time: 18:56:45
+Number of Seizures in File: 0
+
+File Name: chb21_02.edf
+File Start Time: 18:56:49
+File End Time: 19:56:49
+Number of Seizures in File: 0
+
+File Name: chb21_03.edf
+File Start Time: 19:56:57
+File End Time: 20:56:57
+Number of Seizures in File: 0
+
+File Name: chb21_04.edf
+File Start Time: 20:57:04
+File End Time: 21:57:04
+Number of Seizures in File: 0
+
+File Name: chb21_05.edf
+File Start Time: 21:57:11
+File End Time: 22:57:11
+Number of Seizures in File: 0
+
+File Name: chb21_06.edf
+File Start Time: 22:57:18
+File End Time: 23:57:18
+Number of Seizures in File: 0
+
+File Name: chb21_07.edf
+File Start Time: 23:57:24
+File End Time: 24:57:24
+Number of Seizures in File: 0
+
+File Name: chb21_08.edf
+File Start Time: 00:57:31
+File End Time: 1:57:31
+Number of Seizures in File: 0
+
+File Name: chb21_09.edf
+File Start Time: 01:57:38
+File End Time: 2:57:38
+Number of Seizures in File: 0
+
+File Name: chb21_10.edf
+File Start Time: 02:57:45
+File End Time: 3:57:45
+Number of Seizures in File: 0
+
+File Name: chb21_11.edf
+File Start Time: 03:57:52
+File End Time: 4:57:52
+Number of Seizures in File: 0
+
+File Name: chb21_12.edf
+File Start Time: 04:57:59
+File End Time: 5:57:59
+Number of Seizures in File: 0
+
+File Name: chb21_13.edf
+File Start Time: 05:58:06
+File End Time: 6:58:06
+Number of Seizures in File: 0
+
+File Name: chb21_14.edf
+File Start Time: 06:58:13
+File End Time: 7:58:13
+Number of Seizures in File: 0
+
+File Name: chb21_15.edf
+File Start Time: 07:58:20
+File End Time: 8:58:20
+Number of Seizures in File: 0
+
+File Name: chb21_16.edf
+File Start Time: 08:58:27
+File End Time: 9:58:26
+Number of Seizures in File: 0
+
+File Name: chb21_17.edf
+File Start Time: 09:58:59
+File End Time: 10:58:59
+Number of Seizures in File: 0
+
+File Name: chb21_18.edf
+File Start Time: 10:59:06
+File End Time: 11:59:06
+Number of Seizures in File: 0
+
+File Name: chb21_19.edf
+File Start Time: 11:59:13
+File End Time: 12:59:13
+Number of Seizures in File: 1
+Seizure 1 Start Time: 1288 seconds
+Seizure 1 End Time: 1344 seconds
+
+File Name: chb21_20.edf
+File Start Time: 12:59:20
+File End Time: 13:49:10
+Number of Seizures in File: 1
+Seizure 1 Start Time: 2627 seconds
+Seizure 1 End Time: 2677 seconds
+
+File Name: chb21_21.edf
+File Start Time: 15:49:35
+File End Time: 16:49:35
+Number of Seizures in File: 1
+Seizure 1 Start Time: 2003 seconds
+Seizure 1 End Time: 2084 seconds
+
+File Name: chb21_22.edf
+File Start Time: 16:49:42
+File End Time: 17:49:42
+Number of Seizures in File: 1
+Seizure 1 Start Time: 2553 seconds
+Seizure 1 End Time: 2565 seconds
+
+File Name: chb21_23.edf
+File Start Time: 18:36:01
+File End Time: 19:36:01
+Number of Seizures in File: 0
+
+File Name: chb21_24.edf
+File Start Time: 20:36:11
+File End Time: 21:36:11
+Number of Seizures in File: 0
+
+File Name: chb21_25.edf
+File Start Time: 22:36:25
+File End Time: 23:36:25
+Number of Seizures in File: 0
+
+File Name: chb21_26.edf
+File Start Time: 23:36:32
+File End Time: 24:36:32
+Number of Seizures in File: 0
+
+File Name: chb21_27.edf
+File Start Time: 00:36:39
+File End Time: 1:36:39
+Number of Seizures in File: 0
+
+File Name: chb21_28.edf
+File Start Time: 01:36:46
+File End Time: 2:36:46
+Number of Seizures in File: 0
+
+File Name: chb21_29.edf
+File Start Time: 08:37:34
+File End Time: 9:37:34
+Number of Seizures in File: 0
+
+File Name: chb21_30.edf
+File Start Time: 13:38:08
+File End Time: 14:38:08
+Number of Seizures in File: 0
+
+File Name: chb21_31.edf
+File Start Time: 22:39:10
+File End Time: 23:39:10
+Number of Seizures in File: 0
+
+File Name: chb21_32.edf
+File Start Time: 23:39:17
+File End Time: 24:39:17
+Number of Seizures in File: 0
+
+File Name: chb21_33.edf
+File Start Time: 00:39:24
+File End Time: 1:39:24
+Number of Seizures in File: 0
